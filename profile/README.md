@@ -1,6 +1,5 @@
 ## Open Catalyst Project
-
-### Using AI to model and discover new catalysts to address the energy challenges posed by climate change.
+Using AI to model and discover new catalysts to address the energy challenges posed by climate change.
 
 ## BREAKING CHANGES
 We have moved all of code development to our new org [Fair-Chem](https://github.com/FAIR-Chem).
